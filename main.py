@@ -22,3 +22,4 @@ df['New'] = model.predict(arr)
 print(pd.crosstab(df['Sex'], df['New']))
 
 print('Hi, How are u?')
+print('Something new')
